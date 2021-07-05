@@ -8,6 +8,7 @@ export default function Itinerary({itinerary}) {
         <>
             <div className="itinerary">
                 <h2>Flights</h2>
+                
                 {itinerary.flights.map(flight => (
                     <Flight
                         departureTime={flight.departureTime}

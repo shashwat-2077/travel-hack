@@ -5,16 +5,16 @@
                 "departureTime": "06:50",
                 "arrivalTime": "09:20",
                 "date": "Jul 2",
-                "origin": "LHR",
-                "destination": "OSL"
+                "origin": "DEL",
+                "destination": "BBS"
             },
             {
                 "departureTime": "18:45",
                 "arrivalTime": "21:15",
                 "date": "Jul 9",
-                "destination": "LHR",
+                "destination": "BBS",
                 "confirmation": "314159265",
-                "origin": "OSL"
+                "origin": "DEL"
             }
         ],
         "accommodation": [
@@ -23,9 +23,9 @@
                 "endDate": "Jul 9",
                 "checkInTime": "15:00",
                 "checkOutTime": "12:00",
-                "name": "Grand Hotel Oslo",
-                "address": "Karl Johans gate 31, 0159 Oslo, Norway",
-                "phone": "+47 23 21 20 00",
+                "name": "Mayfair Resorts",
+                "address": "The Grand Road, Bhubaneswar",
+                "phone": "06784 943856",
                 "confirmation": "ty1234789yt410"
             }
         ],
@@ -33,8 +33,8 @@
             {
                 "time": "19:00",
                 "date": "Jul 4",
-                "name": "Palace Grill",
-                "address": "Solligata 2, 0254 Oslo, Norway",
+                "name": "Desi Biryani",
+                "address": "JP Road, Bhubaneswar",
                 "confirmation": "99900022"
             }
         ]
