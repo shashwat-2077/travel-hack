@@ -1,1 +1,8 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Travel Hack
+
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
